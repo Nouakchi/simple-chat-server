@@ -1,0 +1,22 @@
+# Node.js dependencies
+node_modules/
+
+# Compiled files
+dist/
+build/
+*.log
+
+# Environment variables
+.env
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Dependency lock files
+yarn.lock
+package-lock.json
+
+# OS-specific files
+.DS_Store
+Thumbs.db
