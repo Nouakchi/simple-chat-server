@@ -1,4 +1,4 @@
-#!/goinfre/onouakch/chat/venv/bin/python3
+#!/goinfre/onouakch/chat_project/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
